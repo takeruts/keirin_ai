@@ -1,0 +1,10 @@
+# keirin_ai
+Deep Learning を使った競輪の予測
+
+## ファイルの説明
+### Crawler_train
+- トレーニング用のデータを取得しCVSファイルに保存する (data folder)
+- Rakuten Kドリーム https://keirin.kdreams.jp/
+- 2008年8月から2018年8月までのデータを参照
+### Cralwer_predict
+- 予想用のデータを取得しCSVファイルに保存する (predict folder)
