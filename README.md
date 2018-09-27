@@ -9,7 +9,7 @@ Deep Learning を使った競輪の予測
 - 予想用のデータを取得しCSVファイルに保存する (predict folder)
 ### train_predict.ipynb
 - 学習を実行し、予測する
-### 未完成
+#### 未完成
 ##### train.ipynb
 - 学習を実行し、モデルを保存する (model folder)
 ##### predict.ipynb
