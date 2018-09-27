@@ -1,5 +1,5 @@
 # keirin_ai
-### Deep Learning を使った競輪の予測
+### Deep Learning を使った競輪の予測 (AI技術勉強のため）
 - TensorFlow を使用
 - 収束高速化：　He 初期化, Adam
 - 過学習対策：　正則化（２次）、ドロップアウト
