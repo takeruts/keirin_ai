@@ -10,6 +10,6 @@ Deep Learning を使った競輪の予測
 ### train_predict.ipynb
 - 学習を実行し、予測する
 ### train.ipynb
-- 学習済みモデルを保存する (model folder)
+- 学習を実行し、モデルを保存する (model folder)
 ### predict.ipynb
 - 学習済みモデルをロードして予測する（未完成）
