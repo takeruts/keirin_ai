@@ -7,8 +7,9 @@ Deep Learning を使った競輪の予測
 - 2008年8月から2018年8月までのデータを参照
 ### Cralwer_predict
 - 予想用のデータを取得しCSVファイルに保存する (predict folder)
+- 2018年9月分
 ### train_predict.ipynb
-- 学習を実行し、予測する
+- 学習を実行し、予測結果を表示
 #### 未完成
 ##### train.ipynb
 - 学習を実行し、モデルを保存する (model folder)
