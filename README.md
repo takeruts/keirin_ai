@@ -1,6 +1,6 @@
 # keirin_ai
 ## Deep Learning を使った競輪の予測
-- TensorFlow を使用
+- TensorFlow, Keras を使用
 - 収束：　He 初期化, Adam
 - 過学習対策：　正則化（２次）、ドロップアウト
 - 予測精度: 作業中（いまのところ、実用的な結果を得られない)
